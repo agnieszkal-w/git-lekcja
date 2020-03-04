@@ -1,1 +1,2 @@
-# git-lekcja
+# git-lekcja 
+cos
